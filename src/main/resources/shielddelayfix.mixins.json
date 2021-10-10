@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.rha1117.shielddelayfix",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+	"LivingEntityMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
